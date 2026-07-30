@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Nnaji Iheaku 👋
 
-<!--
-**nnajiiheaku/nnajiiheaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Aspiring Security Engineer
 
-Here are some ideas to get you started:
+I'm currently in the Accelerated Masters Program for Management Information Systems with a minor in Cybersecurity at the University of Alabama
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Project
+
+### Enterprise SOC Homelab
+
+I'm building and documenting a complete SOC homelab featuring:
+
+- SIEM deployment with Splunk
+- Wazuh for endpoint detection
+- pfSense firewall configuration
+- Windows event logging
+- Sysmon telemetry
+- Detection engineering
+- Attack simulations from Kali Linux
+- Alert creation and investigation
+
+  ## 🛠️ Tech Stack
+
+- Splunk
+- Wazuh
+- pfSense
+- Kali Linux
+- Windows
+- Ubuntu
+- VirtualBox
+- PowerShell
+
+---
+
+## 📚 Learning Goals
+
+- Detection Engineering
+- SIEM Administration
+- Threat Detection
+- Incident Response
+- Linux Administration
+
+## 📫 Connect With Me
+
+- LinkedIn: *([](https://www.linkedin.com/in/nnaji-iheaku/))*
+
+Thanks for visiting my profile!
